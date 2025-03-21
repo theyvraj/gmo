@@ -1,0 +1,7 @@
+credentials.json
+.venv
+meeting_organiser\__pycache__
+meeting_api\__pycache__
+meeting_api\migrations\__pycache__
+db.sqlite3
+token.pickle
